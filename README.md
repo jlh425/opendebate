@@ -1,3 +1,13 @@
+npx create-next-app@latest my-app --typescript --tailwind --eslint
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npm install @clerk/nextjs
+npm i next-themes
+npx shadcn-ui@latest add dropdown-menu
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
