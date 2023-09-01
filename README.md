@@ -4,8 +4,11 @@ npx shadcn-ui@latest add button
 npm install @clerk/nextjs  follow steps at->https://clerk.com/docs/quickstarts/nextjs
 npm i next-themes
 npx shadcn-ui@latest add dropdown-menu
-
-
+npm i -D prisma
+    npx prisma init
+        everytime we change the .prisma
+        npx prisma generate
+        npx prisma db push
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
