@@ -17,6 +17,18 @@ npx shadcn-ui@latest add dialog
 npx shadcn-ui@latest add input
 npx shadcn-ui@latest add form
 
+npm install uploadthing @uploadthing/react react-dropzone    
+       see https://docs.uploadthing.com/nextjs/appdir
+
+npm i axios
+npm i uuid
+npm i -D @types/uuid
+
+npx shadcn-ui@latest add tooltip
+npx shadcn-ui@latest add separator
+npx shadcn-ui@latest add scroll-area
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
