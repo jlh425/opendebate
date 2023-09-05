@@ -9,6 +9,13 @@ npm i -D prisma
         everytime we change the .prisma
         npx prisma generate
         npx prisma db push
+npm i @prisma/client
+
+npx prisma studio  -> used in production to see aspects of app like profiles etc
+
+npx shadcn-ui@latest add dialog
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add form
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
