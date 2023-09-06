@@ -28,6 +28,7 @@ npx shadcn-ui@latest add tooltip
 npx shadcn-ui@latest add separator
 npx shadcn-ui@latest add scroll-area
 
+npm i zustand
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
