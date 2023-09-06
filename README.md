@@ -9,6 +9,7 @@ npm i -D prisma
         everytime we change the .prisma
         npx prisma generate
         npx prisma db push
+            if need to reset database use npx prisma migrate reset
 npm i @prisma/client
 
 npx prisma studio  -> used in production to see aspects of app like profiles etc
