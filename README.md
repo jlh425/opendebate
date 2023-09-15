@@ -35,6 +35,10 @@ npm i query-string
 npx shadcn-ui@latest add select
 npx shadcn-ui@latest add command
 npx shadcn-ui@latest add sheet
+npx shadcn-ui@latest add badge
+
+npm i socket.io
+npm i socket.io-client
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
