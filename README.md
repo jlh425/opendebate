@@ -1,4 +1,5 @@
 npx create-next-app@latest my-app --typescript --tailwind --eslint
+    needs eslint-config-next & "next": "13.4.12",
 npx shadcn-ui@latest init
 npx shadcn-ui@latest add button
 npm install @clerk/nextjs  follow steps at->https://clerk.com/docs/quickstarts/nextjs
@@ -44,6 +45,10 @@ npx shadcn-ui@latest add popover
 
 npm i @tanstack/react-query
 npm i date-fns
+npm i livekit
+npm i @livekit/components-react
+npm install livekit-client @livekit/components-react @livekit/components-styles --save
+npm i livekit-server-sdk
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
